@@ -1,0 +1,112 @@
+{
+  "project_info": {
+    "project_number": "803230793604",
+    "project_id": "serv-go",
+    "storage_bucket": "serv-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803230793604:android:5c0ec1436f7fcbca3c27d1",
+        "android_client_info": {
+          "package_name": "com.servgo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803230793604-pc52i0n646lnhgg6h9vel9vhh7b691iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.servgo.app",
+            "certificate_hash": "9deb4a0162f15626a4c16c6af85245104901a12d"
+          }
+        },
+        {
+          "client_id": "803230793604-tpqeuk311t1iebsob3iq4c27a501jho1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.servgo.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "803230793604-q0nf20o00i3epfhkl3i2opaccikembud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUFtd56nmXWA_FYG1ckcWRbPKmbr3rbw"
+        },
+        {
+          "current_key": "AIzaSyDuodjyCP-8c9bVBQZ9NqBvlTku1fg6Aj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803230793604-2rav691kberlo0bito22vpdf18h1ai05.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803230793604-6k15vjaap4u0jupk2piv5gjvbnnm6rqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.servgo.partner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803230793604:android:3f8ce1c036d013403c27d1",
+        "android_client_info": {
+          "package_name": "com.servgo.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803230793604-5qfpi8nnfdgt7o2q1vdmnvtg3a0jthtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.servgo.partner",
+            "certificate_hash": "9deb4a0162f15626a4c16c6af85245104901a12d"
+          }
+        },
+        {
+          "client_id": "803230793604-q0nf20o00i3epfhkl3i2opaccikembud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUFtd56nmXWA_FYG1ckcWRbPKmbr3rbw"
+        },
+        {
+          "current_key": "AIzaSyDuodjyCP-8c9bVBQZ9NqBvlTku1fg6Aj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803230793604-2rav691kberlo0bito22vpdf18h1ai05.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803230793604-6k15vjaap4u0jupk2piv5gjvbnnm6rqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.servgo.partner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
